@@ -1,155 +1,146 @@
 [meta]
-title = "Mortys personal~ radar"
-categories = [ "Tools", "Techniques", "Platforms", "Frameworks" ]
+title = "Huong's skillradar"
+categories = [ "Dev", "Chi", "SS", "Ops" ]
 levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
 
 [[blips]]
-category = 0
-title = "GitLab CI"
-level = 3
-
-  [[blips.changes]]
-  date = "2018-07"
-  newLevel = 3
-
-[[blips]]
-category = 3
-title = "Go"
+category = 1
+link = ""
+description = "Data Structure & Algorithms"
+title = "Problem Solving"
 level = 0
 
   [[blips.changes]]
-  date = "2018-12"
+  date = "2019-09"
   newLevel = 0
-  text = "Superfast, cross-compiled, multi-platform executables"
+  text = """
+- Completed | 30 days of code - HackerRank
+- Read | A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills"""
 
 [[blips]]
-category = 2
-link = "https:////kubernetes.io"
-description = "Containers at scale"
-title = "Kubernetes"
+category = 1
+link = ""
+description = "Asymmetric Encryption, Symmetric Encryption, One Way Encryption, Public Key Infrastructure, FIDO2"
+title = "Crypto"
 level = 0
 
   [[blips.changes]]
-  date = "2018-07"
+  date = "2019-09"
   newLevel = 0
-
-[[blips]]
-category = 2
-link = "https:////docker.io"
-description = "Container all the things"
-title = "Docker"
-level = 2
-
-  [[blips.changes]]
-  date = "2019-03"
-  newLevel = 2
+  text = "crypto-overview: https://github.com/fanxipang/crypto-overview"
 
 [[blips]]
 category = 1
-description = "Treat your documentation like you treat code, git version, PR review, etc."
-title = "docs as code"
-level = 2
-
-  [[blips.changes]]
-  date = "2019-03"
-  newLevel = 2
-  text = "I am so good at this because I use it everywhere!"
-
-[[blips]]
-category = 0
-title = "Matlab"
-level = 3
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 3
-
-[[blips]]
-category = 3
-title = "OpenCV"
-level = 3
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 3
-
-[[blips]]
-category = 3
-title = "Python"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 1
-
-[[blips]]
-category = 3
-title = "Javascript"
-level = 2
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 2
-
-[[blips]]
-category = 3
-title = "CSS"
-level = 3
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 3
-
-[[blips]]
-category = 1
-title = "Design"
-level = 3
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 3
-
-[[blips]]
-category = 1
-title = "Deep Learning"
-level = 2
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 2
-
-[[blips]]
-category = 2
-title = "Blockchain"
-level = 2
-
-  [[blips.changes]]
-  date = "2019-06"
-  newLevel = 2
-
-[[blips]]
-category = 0
-title = "Ansible"
+link = ""
+description = "Data analysis, SQL, NoSQL, MapReduce, Big Data"
+title = "Data Science"
 level = 0
 
   [[blips.changes]]
-  date = "2019-06"
+  date = "2019-09"
   newLevel = 0
+  text = "Course | Data Manipulation at Scale: Systems and Algorithms (https://www.coursera.org/account/accomplishments/certificate/6NFCFFZYGK8U)"
+
+[[blips]]
+category = 1
+link = ""
+description = "Machine Learning, Supervised learning, Neural network"
+title = "AI"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = "Course | AI for Everyone (https://www.coursera.org/account/accomplishments/certificate/Z5VM4B5UU3US)"
+
+[[blips]]
+category = 1
+link = ""
+description = "C4Model, UML, SOLID"
+title = "Architecture Design"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = """
+Book | The Object-Oriented Thought Process
+Book | Design It
+Book | Clean Code"""
+
+[[blips]]
+category = 2
+link = ""
+description = "Agile leadership, Elastic leadership"
+title = "Leadership"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = """
+Course | Agile leadership
+Book | Elastic leadership"""
+
+[[blips]]
+category = 2
+link = ""
+description = ""
+title = "Entreprenuership"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = """
+Course | MBA in One Course : Entrepreneurship and Business Management
+Book | Value Proposition Design
+Book | Zero to One"""
 
 [[blips]]
 category = 0
-title = "Azure RM"
-level = 1
+link = ""
+description = "HTML, CSS, JS"
+title = "Web basics"
+level = 0
 
   [[blips.changes]]
-  date = "2019-06"
-  newLevel = 1
+  date = "2019-09"
+  newLevel = 0
+  text = ""
 
 [[blips]]
 category = 0
-title = "Chef"
-level = 2
+link = ""
+description = "Meteor, Node.js, ReactJS, AngularJS"
+title = "Modern web"
+level = 0
 
   [[blips.changes]]
-  date = "2019-06"
-  newLevel = 2
+  date = "2019-09"
+  newLevel = 0
+  text = ""
+
+[[blips]]
+category = 3
+link = ""
+description = "Jenkins"
+title = "CI/CD"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = ""
+
+[[blips]]
+category = 3
+link = ""
+description = "AWS, GCP"
+title = "Serverless"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = ""
