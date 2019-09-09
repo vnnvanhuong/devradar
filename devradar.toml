@@ -144,3 +144,39 @@ level = 0
   date = "2019-09"
   newLevel = 0
   text = ""
+
+[[blips]]
+category = 2
+link = ""
+description = "HelloChao"
+title = "English"
+level = 1
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 1
+  text = ""
+
+[[blips]]
+category = 2
+link = ""
+description = "Viet-Khmer"
+title = "Khmer"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = ""
+
+[[blips]]
+category = 2
+link = ""
+description = ""
+title = "Taekwondo"
+level = 1
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 1
+  text = "Black belt"
