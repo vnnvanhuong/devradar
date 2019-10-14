@@ -6,16 +6,48 @@ levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
 [[blips]]
 category = 1
 link = ""
-description = "Data Structure & Algorithms"
-title = "Problem Solving"
+description = "Machine Learning, Supervised learning, Neural network"
+title = "AI"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = "Course | AI for Everyone (https://www.coursera.org/account/accomplishments/certificate/Z5VM4B5UU3US)"
+
+[[blips]]
+category = 1
+link = ""
+description = """
+To find a good design for scalable system with maintainability
+
+- C4Model
+- UML
+- OOD
+- SOLID
+- Design Patterns"""
+title = "Architectural Design"
 level = 0
 
   [[blips.changes]]
   date = "2019-09"
   newLevel = 0
   text = """
-- Completed | 30 days of code - HackerRank
-- Read | A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills"""
+Book | The Object-Oriented Thought Process
+Book | Design It
+Book | Clean Code"""
+
+[[blips]]
+category = 3
+link = ""
+description = "Jenkins"
+title = "CI/CD"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = ""
 
 [[blips]]
 category = 1
@@ -42,45 +74,16 @@ level = 0
   text = "Course | Data Manipulation at Scale: Systems and Algorithms (https://www.coursera.org/account/accomplishments/certificate/6NFCFFZYGK8U)"
 
 [[blips]]
-category = 1
-link = ""
-description = "Machine Learning, Supervised learning, Neural network"
-title = "AI"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = "Course | AI for Everyone (https://www.coursera.org/account/accomplishments/certificate/Z5VM4B5UU3US)"
-
-[[blips]]
-category = 1
-link = ""
-description = "C4Model, UML, SOLID"
-title = "Architecture Design"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = """
-Book | The Object-Oriented Thought Process
-Book | Design It
-Book | Clean Code"""
-
-[[blips]]
 category = 2
 link = ""
-description = "Agile leadership, Elastic leadership"
-title = "Leadership"
-level = 0
+description = "HelloChao"
+title = "English"
+level = 1
 
   [[blips.changes]]
   date = "2019-09"
-  newLevel = 0
-  text = """
-Course | Agile leadership
-Book | Elastic leadership"""
+  newLevel = 1
+  text = ""
 
 [[blips]]
 category = 2
@@ -100,14 +103,56 @@ Book | Zero to One"""
 [[blips]]
 category = 0
 link = ""
-description = "HTML, CSS, JS"
-title = "Web basics"
+description = """
+By learning a specific programming language's core concepts, to know how to code effectively
+
+**Core Java**
+- Collections Framework
+- Multithreading
+- Annotations
+- Generics
+- Exception Handling
+- Reflection"""
+title = "Java"
+level = 1
+
+  [[blips.changes]]
+  date = "2019-10"
+  newLevel = 1
+  text = """
+
+
+Coding task:
+https://github.com/vnnvanhuong/carpark-finder
+
+Learning tutorial:
+https://www.journaldev.com/java-tutorial-java-ee-tutorials"""
+
+[[blips]]
+category = 2
+link = ""
+description = "Viet-Khmer"
+title = "Khmer"
 level = 0
 
   [[blips.changes]]
   date = "2019-09"
   newLevel = 0
   text = ""
+
+[[blips]]
+category = 2
+link = ""
+description = "Agile leadership, Elastic leadership"
+title = "Leadership"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = """
+Course | Agile leadership
+Book | Elastic leadership"""
 
 [[blips]]
 category = 0
@@ -122,46 +167,27 @@ level = 0
   text = ""
 
 [[blips]]
-category = 3
+category = 1
 link = ""
-description = "Jenkins"
-title = "CI/CD"
+description = """
+**Data Structure & Algorithms**
+- Data structure: choose an efficient data structure.
+- Algorithms: find an optimal solution for a problem"""
+title = "Problem Solving"
 level = 0
 
   [[blips.changes]]
   date = "2019-09"
   newLevel = 0
-  text = ""
+  text = """
+- Completed | 30 days of code - HackerRank
+- Read | A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills"""
 
 [[blips]]
 category = 3
 link = ""
 description = "AWS, GCP"
 title = "Serverless"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = ""
-
-[[blips]]
-category = 2
-link = ""
-description = "HelloChao"
-title = "English"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 1
-  text = ""
-
-[[blips]]
-category = 2
-link = ""
-description = "Viet-Khmer"
-title = "Khmer"
 level = 0
 
   [[blips.changes]]
@@ -180,3 +206,15 @@ level = 1
   date = "2019-09"
   newLevel = 1
   text = "Black belt"
+
+[[blips]]
+category = 0
+link = ""
+description = "HTML, CSS, JS"
+title = "Web basics"
+level = 0
+
+  [[blips.changes]]
+  date = "2019-09"
+  newLevel = 0
+  text = ""
