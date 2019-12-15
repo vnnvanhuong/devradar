@@ -8,7 +8,22 @@ category = 1
 link = ""
 description = "Machine Learning, Supervised learning, Neural network"
 title = "AI"
-level = 0
+level = 1
+
+  [[blips.changes]]
+  date = "2019-12"
+  newLevel = 1
+  text = """
+- Understanding the basic neural network (ANN) concepts such as weight,  bias, loss, accuracy, propagation, and backpropagation. Able to explain these concepts by mathematics. 
+
+- Able to use framework Keras to create a model with understanding its learnable params such as activation, loss, metric, espoch, batch size, optimizer, etc...
+
+- Able to create a simple neural network from scratch with Python (without using a framework such as Keras)
+
+
+Reference:
+
+https://github.com/vnnvanhuong/neural-network-notes"""
 
   [[blips.changes]]
   date = "2019-09"
@@ -36,6 +51,29 @@ level = 0
 Book | The Object-Oriented Thought Process
 Book | Design It
 Book | Clean Code"""
+
+[[blips]]
+category = 1
+link = "https://github.com/vnnvanhuong/neural-network-notes/blob/master/basic_neural_network.ipynb"
+description = "Python, Keras, Numpy, Matplotlib"
+title = "Artificial neural network"
+level = 1
+
+  [[blips.changes]]
+  date = "2019-12"
+  newLevel = 1
+  text = """
+- Understanding how neural network works in general
+
+- Understanding what exactly weight, bias, loss functions and accuracy are.
+
+- Understanding training process including propagation and backpropagation processes
+
+- Understanding how to create a simple neural from scratch with Python (without a framework such as Keras)
+
+- Understanding the meaning of neural network by mathematics 
+
+- Able to use Keras to build a Sequential model."""
 
 [[blips]]
 category = 3
@@ -145,7 +183,28 @@ category = 2
 link = ""
 description = "Agile leadership, Elastic leadership"
 title = "Leadership"
-level = 0
+level = 1
+
+  [[blips.changes]]
+  date = "2019-12"
+  newLevel = 1
+  text = """
+1. Completing reading the books "Tôi, Tương Lai và Thế Giới"
+
+- Understanding mandatory skills for a leader in near future (4.0)
+
+- Understanding the concept EQ (beside IQ)
+
+
+
+2. 6 months passed  for leading my product team
+
+- Defining team commitments
+
+- Maintain practices (in commitments) for the team
+
+- Learn how to adapt an existing team culture and continue to elegant it.
+"""
 
   [[blips.changes]]
   date = "2019-09"
