@@ -1,279 +1,88 @@
 [meta]
 title = "Huong's skillradar"
-categories = [ "Dev", "Chi", "SS", "Ops" ]
+categories = [ "Platforms", "Frameworks", "Tools", "Techniques" ]
 levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
 
 [[blips]]
-category = 1
+category = 3
 link = ""
-description = "Machine Learning, Supervised learning, Neural network"
-title = "AI"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-12"
-  newLevel = 1
-  text = """
-- Understanding the basic neural network (ANN) concepts such as weight,  bias, loss, accuracy, propagation, and backpropagation. Able to explain these concepts by mathematics. 
-
-- Able to use framework Keras to create a model with understanding its learnable params such as activation, loss, metric, espoch, batch size, optimizer, etc...
-
-- Able to create a simple neural network from scratch with Python (without using a framework such as Keras)
-
-
-Reference:
-
-https://github.com/vnnvanhuong/neural-network-notes"""
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = "Course | AI for Everyone (https://www.coursera.org/account/accomplishments/certificate/Z5VM4B5UU3US)"
-
-[[blips]]
-category = 1
-link = ""
-description = """
-To find a good design for scalable system with maintainability
-
-- C4Model
-- UML
-- OOD
-- SOLID
-- Design Patterns"""
-title = "Architectural Design"
+description = "Programming"
+title = "Fundamental Coding Skills: Algorithms and Data Structures"
 level = 0
 
   [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = """
-Book | The Object-Oriented Thought Process
-Book | Design It
-Book | Clean Code"""
-
-[[blips]]
-category = 1
-link = "https://github.com/vnnvanhuong/neural-network-notes/blob/master/basic_neural_network.ipynb"
-description = "Python, Keras, Numpy, Matplotlib"
-title = "Artificial neural network"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-12"
+  date = "2024-04-14"
   newLevel = 1
-  text = """
-- Understanding how neural network works in general
-
-- Understanding what exactly weight, bias, loss functions and accuracy are.
-
-- Understanding training process including propagation and backpropagation processes
-
-- Understanding how to create a simple neural from scratch with Python (without a framework such as Keras)
-
-- Understanding the meaning of neural network by mathematics 
-
-- Able to use Keras to build a Sequential model."""
+  text = "HackerRank Problem Solving (Basic) Certificate"
 
 [[blips]]
-category = 3
+category = 2
 link = ""
 description = "Jenkins"
-title = "CI/CD"
+title = "Jenkins"
 level = 0
 
   [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = ""
+  date = "2024-04-14"
+  newLevel = 2
+  text = "Main build tool since 2013"
 
 [[blips]]
 category = 1
 link = ""
-description = "Asymmetric Encryption, Symmetric Encryption, One Way Encryption, Public Key Infrastructure, FIDO2"
-title = "Crypto"
+description = "Angular"
+title = "Angular"
 level = 0
 
   [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = "crypto-overview: https://github.com/fanxipang/crypto-overview"
-
-[[blips]]
-category = 1
-link = ""
-description = "Data analysis, SQL, NoSQL, MapReduce, Big Data"
-title = "Data Science"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = "Course | Data Manipulation at Scale: Systems and Algorithms (https://www.coursera.org/account/accomplishments/certificate/6NFCFFZYGK8U)"
-
-[[blips]]
-category = 2
-link = ""
-description = "HelloChao"
-title = "English"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-09"
+  date = "2024-04-14"
   newLevel = 1
-  text = ""
+  text = "Main frontend framework since 2022"
 
 [[blips]]
-category = 2
+category = 1
 link = ""
-description = ""
-title = "Entreprenuership"
+description = "SpringBoot"
+title = "SpringBoot"
 level = 0
 
   [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = """
-Course | MBA in One Course : Entrepreneurship and Business Management
-Book | Value Proposition Design
-Book | Zero to One"""
+  date = "2024-04-14"
+  newLevel = 1
+  text = "Main Java framework used for developing web applications since 2022"
 
 [[blips]]
 category = 0
 link = ""
-description = """
-By learning a specific programming language's core concepts, to know how to code effectively
+description = "OpenShift"
+title = "OpenShift"
+level = 0
 
-**Core Java**
-- Collections Framework
-- Multithreading
-- Annotations
-- Generics
-- Exception Handling
-- Reflection"""
+  [[blips.changes]]
+  date = "2024-04-14"
+  newLevel = 2
+  text = "Main container orchestration tool used since 2018"
+
+[[blips]]
+category = 0
+link = ""
+description = "PostgreSQL"
+title = "PostgreSQL"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-04-14"
+  newLevel = 2
+  text = "Main relational database used since 2013"
+
+[[blips]]
+category = 0
+link = ""
+description = "Java"
 title = "Java"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-10"
-  newLevel = 1
-  text = """
-
-
-Coding task:
-https://github.com/vnnvanhuong/carpark-finder
-
-Learning tutorial:
-https://www.journaldev.com/java-tutorial-java-ee-tutorials"""
-
-[[blips]]
-category = 2
-link = ""
-description = "Viet-Khmer"
-title = "Khmer"
 level = 0
 
   [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = ""
-
-[[blips]]
-category = 2
-link = ""
-description = "Agile leadership, Elastic leadership"
-title = "Leadership"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-12"
-  newLevel = 1
-  text = """
-1. Completing reading the books "Tôi, Tương Lai và Thế Giới"
-
-- Understanding mandatory skills for a leader in near future (4.0)
-
-- Understanding the concept EQ (beside IQ)
-
-
-
-2. 6 months passed  for leading my product team
-
-- Defining team commitments
-
-- Maintain practices (in commitments) for the team
-
-- Learn how to adapt an existing team culture and continue to elegant it.
-"""
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = """
-Course | Agile leadership
-Book | Elastic leadership"""
-
-[[blips]]
-category = 0
-link = ""
-description = "Meteor, Node.js, ReactJS, AngularJS"
-title = "Modern web"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = ""
-
-[[blips]]
-category = 1
-link = ""
-description = """
-**Data Structure & Algorithms**
-- Data structure: choose an efficient data structure.
-- Algorithms: find an optimal solution for a problem"""
-title = "Problem Solving"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = """
-- Completed | 30 days of code - HackerRank
-- Read | A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills"""
-
-[[blips]]
-category = 3
-link = ""
-description = "AWS, GCP"
-title = "Serverless"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = ""
-
-[[blips]]
-category = 2
-link = ""
-description = ""
-title = "Taekwondo"
-level = 1
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 1
-  text = "Black belt"
-
-[[blips]]
-category = 0
-link = ""
-description = "HTML, CSS, JS"
-title = "Web basics"
-level = 0
-
-  [[blips.changes]]
-  date = "2019-09"
-  newLevel = 0
-  text = ""
+  date = "2024-04-14"
+  newLevel = 2
+  text = "Main programming language used since 2013"
