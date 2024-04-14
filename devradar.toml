@@ -6,6 +6,30 @@ levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
 [[blips]]
 category = 3
 link = ""
+description = "Design system architectures from system context, container, component, to code"
+title = "System Design"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-04-14"
+  newLevel = 1
+  text = "Build chatbot platform, and web applications for digital onboarding solutions"
+
+[[blips]]
+category = 3
+link = ""
+description = "Write technical documents"
+title = "Technical Writing"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-04-14"
+  newLevel = 2
+  text = "Writing software development standards"
+
+[[blips]]
+category = 3
+link = ""
 description = "Fundamental Coding Skills: Algorithms and Data Structures"
 title = "Programming"
 level = 0
