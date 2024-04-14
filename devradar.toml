@@ -6,8 +6,8 @@ levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
 [[blips]]
 category = 3
 link = ""
-description = "Programming"
-title = "Fundamental Coding Skills: Algorithms and Data Structures"
+description = "Fundamental Coding Skills: Algorithms and Data Structures"
+title = "Programming"
 level = 0
 
   [[blips.changes]]
