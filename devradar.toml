@@ -1,4 +1,4 @@
-f[meta]
+[meta]
 title = "Huong's skillradar"
 categories = [ "Platforms", "Frameworks", "Tools", "Techniques" ]
 levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
