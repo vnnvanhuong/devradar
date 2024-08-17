@@ -1,4 +1,4 @@
-[meta]
+f[meta]
 title = "Huong's skillradar"
 categories = [ "Platforms", "Frameworks", "Tools", "Techniques" ]
 levels = [ "Novice", "Intermediate", "Advanced", "Veteran" ]
@@ -52,6 +52,18 @@ level = 0
   text = "Main build tool since 2013"
 
 [[blips]]
+category = 2
+link = ""
+description = "Terraform"
+title = "Terraform"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-08-17"
+  newLevel = 0
+  text = "I've begin learning Terraform"
+
+[[blips]]
 category = 1
 link = ""
 description = "Angular"
@@ -78,8 +90,8 @@ level = 0
 [[blips]]
 category = 0
 link = ""
-description = "OpenShift"
-title = "OpenShift"
+description = "Kubernetes/OpenShift"
+title = "K8s/OpenShift"
 level = 0
 
   [[blips.changes]]
@@ -110,3 +122,40 @@ level = 0
   date = "2024-04-14"
   newLevel = 2
   text = "Main programming language used since 2013"
+
+
+[[blips]]
+category = 0
+link = ""
+description = "Golang"
+title = "Golang"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-08-17"
+  newLevel = 0
+  text = "I've started to learn Go-lang since 2024-07 for coding challenges in Codility"
+
+[[blips]]
+category = 0
+link = ""
+description = "AWS"
+title = "AWS"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-08-17"
+  newLevel = 1
+  text = "Main cloud platform used since 2013"
+
+[[blips]]
+category = 0
+link = ""
+description = "Azure"
+title = "Azure"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-08-17"
+  newLevel = 0
+  text = "Started to use Azure since 2024-08"
