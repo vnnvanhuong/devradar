@@ -40,6 +40,30 @@ level = 0
   text = "HackerRank Problem Solving (Basic) Certificate"
 
 [[blips]]
+category = 3
+link = ""
+description = "English"
+title = "English"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 3
+  text = "Using English as main language for communication at work since 2013"
+
+[[blips]]
+category = 3
+link = ""
+description = "Technical Leadership"
+title = "Technical Leadership"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 3
+  text = "Play role Leadership since 2020"
+
+[[blips]]
 category = 2
 link = ""
 description = "Jenkins"
@@ -64,6 +88,18 @@ level = 0
   text = "I've begin learning Terraform"
 
 [[blips]]
+category = 2
+link = ""
+description = "Helm"
+title = "Helm"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 2
+  text = "mainly using Helm since 2018"
+
+[[blips]]
 category = 1
 link = ""
 description = "Angular"
@@ -86,6 +122,18 @@ level = 0
   date = "2024-04-14"
   newLevel = 1
   text = "Main Java framework used for developing web applications since 2022"
+
+[[blips]]
+category = 1
+link = ""
+description = "gRPC"
+title = "gRPC"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 1
+  text = "practical using gRPC with Golang in current projects"
 
 [[blips]]
 category = 0
@@ -136,6 +184,23 @@ level = 0
   newLevel = 0
   text = "I've started to learn Go-lang since 2024-07 for coding challenges in Codility"
 
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 2
+  text = "Built APIs for IQVIA OneKey SDKs"
+
+[[blips]]
+category = 0
+link = ""
+description = "Node.js"
+title = "Node.js"
+level = 0
+
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 2
+  text =  "built chatbot platform, a fork from project Rocket.Chat"
+
 [[blips]]
 category = 0
 link = ""
@@ -159,3 +224,8 @@ level = 0
   date = "2024-08-17"
   newLevel = 0
   text = "Started to use Azure since 2024-08"
+
+  [[blips.changes]]
+  date = "2024-12-28"
+  newLevel = 1
+  text = "Experienced with Azure API Management and Azure AD B2C with project IQVIA OneKey SDKs"
